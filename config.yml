@@ -17,7 +17,7 @@ html:
 
 # Colores de plantilla
 theme:
-  background_color: "#f9fafb"
+  background_color: "#f0022e"
   # cover_color: "#ff7070"
 
 # Configuración Central
@@ -35,9 +35,7 @@ blocks:
     
     title: Discord
     icon: Discord
-    url: 
-
-
+    url: https://discord.com/
 # - title: Twitter
 #   icon: twitter
 #   url: https://twitter.com/TU-USUARIO
