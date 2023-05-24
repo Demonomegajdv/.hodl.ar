@@ -33,7 +33,7 @@ blocks:
     icon: instagram
     url: https://www.instagram.com/lacryptaok/
     
-    title: Discord
+  - title: Discord
     icon: Discord
     url: https://discord.com/
 # - title: Twitter
